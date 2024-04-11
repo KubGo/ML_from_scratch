@@ -1,7 +1,7 @@
 # Machine learning from scratch
 This repository is for me to get a better understading of machine learning algorithms and methods. I will try to implement ones listed below only with python with a help of numpy library. 
 
-- [ ] Linear regression
+- [x] Linear regression
 - [ ] Logistic regression
 - [ ] Decision trees
 - [ ] Random forest
